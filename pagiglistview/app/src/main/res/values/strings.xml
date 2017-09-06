@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">下拉刷新分頁ListView</string>
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    <string name="msg_pullrefresh">下拉刷新</string>
+    <string name="msg_lastestrefresh">最后更新于：</string>
+    <string name="msg_loadmore">加载更多</string>
+    <string name="release_refresh">松开刷新</string>
+    <string name="refreshing">正在刷新...</string>
+
+    <color name="listitem_transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+
+</resources>
